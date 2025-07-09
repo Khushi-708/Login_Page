@@ -47,7 +47,6 @@
 
 This project is licensed under the MIT License. See the `LICENSE` file for more information.
 
-*Note: You will need to create a `LICENSE` file in your repository.*
 ---
 <div align="center">
   
